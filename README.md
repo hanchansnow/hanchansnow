@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have%20a%20nice%20day!;早午晚安您好!&center=true&size=27)](https://git.io/typing-svg)
 
-<img src="https://cdn.jsdelivr.net/gh/hanchansnow/hanchansnow@main/assets/avatar.png" width="200" style="border-radius:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/hanchansnow/hanchansnow@main/assets/avatar.jpg" width="200" style="border-radius:50%;" />
 
 # Han Chan | 寒江在下雪
 
@@ -58,7 +58,7 @@ PGP: 1C63 A1CF EE72 7420 4362 D879 6D4A 3F6D 3243 C92E
 
 :mortar_board: I'm currently pursuing a bachelor's degree in Artificial Intelligence.
 
-:computer: I'm an AI-native vibe coder who uses AI to boost productivity. I support advances across all areas of AI and believe it can make everyday life better.
+:computer: I'm an AI-native vibe coder using AI to boost productivity. I support AI development and believe it can improve everyday life.
 
 </tr></td>
 
