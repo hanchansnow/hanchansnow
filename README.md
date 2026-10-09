@@ -12,7 +12,28 @@
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=hanchansnow&label=Views&color=39C5BB&style=flat" alt="访问量统计" />&emsp;
 
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff) [![arch](https://img.shields.io/badge/Linux%20Arch-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black) [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+  <p>
+    <img src="https://img.shields.io/badge/Codex-181717?style=flat" alt="Codex" />
+    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claudecode&logoColor=white" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/DSH-7057FF?style=flat" alt="DSH" />
+    <img src="https://img.shields.io/badge/GPT-10A37F?style=flat" alt="GPT" />
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white" alt="Zed" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Windows-11-2376BC?style=flat" alt="Windows 11" />
+    <img src="https://img.shields.io/badge/Linux%20Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Linux Debian" />
+    <img src="https://img.shields.io/badge/MacOS-333333?style=flat&logo=apple&logoColor=white" alt="MacOS" />
+    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat" alt="Microsoft Office" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white" alt="Codeberg" />
+  </p>
 
 PGP: 1C63 A1CF EE72 7420 4362 D879 6D4A 3F6D 3243 C92E
 
