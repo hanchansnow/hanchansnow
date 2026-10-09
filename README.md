@@ -58,13 +58,11 @@ PGP: 1C63 A1CF EE72 7420 4362 D879 6D4A 3F6D 3243 C92E
 
 ### About
 
-:wave:Hi there, I'm Han Chan, you could call my Chinese name 寒江在下雪 as well.
+:wave: Hi there! I'm Han Chan, and I also go by 寒江在下雪 in Chinese.
 
-:mortar_board:Currently enrolled as a campus student, where I am pursuing a degree in Artificial Intelligence.
+:mortar_board: I'm currently pursuing a bachelor's degree in Artificial Intelligence.
 
-:sob:Very interested in everything related to computers, but unfortunately my skills are not very good, so I am working hard to learn any useful techniques.
-
-:computer:Pursuing opportunities to develop expertise in data analysis and algorithms. Firmly believe that technological advancement should be a catalyst for the progress of whole humanity equally.
+:computer: I'm an AI-native vibe coder who uses AI to boost productivity. I support advances across all areas of AI and believe it can make everyday life better.
 
 </tr></td>
 
