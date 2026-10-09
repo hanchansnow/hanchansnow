@@ -7,26 +7,22 @@
 # Han Chan | 寒江在下雪
 
 <div>
+  <p>
   <a href="https://hanchan.vip/"><img src="https://img.shields.io/badge/-hanchan.vip-0e83cd?style=flat-square&logo=Blogger&logoColor=fff" /></a>&emsp;
   <a href="mailto:hi@hanchan.vip"><img src="https://img.shields.io/badge/-hi@hanchan.vip-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=hanchansnow&label=Views&color=39C5BB&style=flat" alt="访问量统计" />&emsp;
-
-  <p>
+    <br />
     <img src="https://img.shields.io/badge/Codex-181717?style=flat" alt="Codex" />
     <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claudecode&logoColor=white" alt="Claude Code" />
     <img src="https://img.shields.io/badge/DSH-7057FF?style=flat" alt="DSH" />
     <img src="https://img.shields.io/badge/GPT-10A37F?style=flat" alt="GPT" />
     <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  </p>
-
-  <p>
+    <br />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white" alt="Zed" />
-  </p>
-
-  <p>
+    <br />
     <img src="https://img.shields.io/badge/Windows-11-2376BC?style=flat" alt="Windows 11" />
     <img src="https://img.shields.io/badge/Linux%20Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Linux Debian" />
     <img src="https://img.shields.io/badge/MacOS-333333?style=flat&logo=apple&logoColor=white" alt="MacOS" />
