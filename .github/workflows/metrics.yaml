@@ -13,6 +13,8 @@ on:
 
 jobs:
   github-metrics:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       # 基础信息
